@@ -19,6 +19,8 @@
   "homepage": "https://github.com/Jimintea/js-testing#readme",
   "devDependencies": {
     "chai": "^4.3.6",
-    "mocha": "^9.2.2"
+    "chai-asserttype": "^1.0.5",
+    "mocha": "^9.2.2",
+    "nyc": "^15.1.0"
   }
 }
